@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://duruwomomifo.pages.dev/sitemap.xml
